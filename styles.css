@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+img{  
+ height: 250px;  
+ width: 250px;  
+ }  
+#projects{
+	font-size: 30px;
+	font-color: white;
+	font-weight: buttonhighlight;
+}
